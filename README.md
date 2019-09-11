@@ -8,3 +8,4 @@
 ## Useful Link
 - [awesome-AI-books](https://github.com/zslucky/awesome-AI-books)
 - [3D ML](https://www.ctolib.com/timzhang642-3D-Machine-Learning.html)
+- [CNN training skill](https://github.com/davidcpage/cifar10-fast/blob/master/bag_of_tricks.ipynb)
